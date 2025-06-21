@@ -23,37 +23,32 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/ElevenLabs_2025-06-21T01_26_05_Brian_pre_sp100_s50_sb75_v3.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
+🚀 DataMinds: A Conexão do Conhecimento - Seu Podcast de Ciência de Dados
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+Este projeto visa demonstrar a criação de um podcast completo, do roteiro à potencial edição, utilizando ferramentas de Inteligência Artificial, com foco na construção de autoridade técnica no campo da Ciência de Dados.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+💡 Tema Sugerido: Ciência de Dados e Inteligência Artificial
+
+O tema escolhido é Ciência de Dados e Inteligência Artificial, com foco em desvendar conceitos, apresentar ferramentas essenciais, e discutir o que está acontecendo nesse universo em constante evolução. Este nicho é estratégico para você se posicionar como um profissional especializado e construir sua autoridade técnica, seguindo a premissa de que um podcast pode ser uma ferramenta de trabalho e não apenas um hobby
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [NotebookLM](https://notebooklm.google.com/) 
+- [Gemini](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via notebooklm
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Gemini Para gerar capas
 
 
 ## 🛠️ Instruções de execução
