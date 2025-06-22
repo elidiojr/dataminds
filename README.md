@@ -23,8 +23,7 @@
 </p>
 
 <div align="center">
-    [▶️ Ouça o episódio](./audio/episodio1.mp3)
-    <audio src="output/ElevenLabs_2025-06-21T01_26_05_Brian_pre_sp100_s50_sb75_v3.mp3" controls title="Podcast editado"></audio>
+    [▶️ Ouça o episódio](./output/episodio1.mp3)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
