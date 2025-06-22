@@ -23,7 +23,11 @@
 </p>
 
 <div align="center">
-    [▶️ Ouça o episódio](./output/episodio1.mp3)
+
+Clique no link abaixo para ouvir o episódio:
+
+[▶️ Ouça o episódio](./output/episodio1.mp3)
+  
 </div>
 
 # Projeto Podcast Gerado por I.A.s
