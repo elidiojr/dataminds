@@ -18,10 +18,6 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
 
 Clique no link abaixo para ouvir o episódio:
